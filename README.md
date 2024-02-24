@@ -8,7 +8,7 @@
 ## Course Outline:
 Each section will be accompanied by a set of slides and a Colab notebook walk-through corresponding to each subsection.  There will be a total of 10 Colab notebooks, two for each section. We will select one notebook for each section to dive into the details during the class, and leave the other notebook in the same section to the homework so students can take their time to practice in their Colab notebooks.
 
-### Query Engines (including data loading, indexing, storing, and querying)
+### Query Engines 
 - SubQuestionQueryEngine
 - RouterQueryEngine
 
